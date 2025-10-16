@@ -89,13 +89,22 @@
 
 <div align="center">
 
-![Stacy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StacyJelagat&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ffb6c1&text_color=333&bg_color=ffd6e7,ffebf3,ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StacyJelagat&stroke=ff69b4&background=ffd6e7&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StacyJelagat&layout=compact&hide_border=true&title_color=ff69b4&bg_color=ffd6e7,ffebf3,ffffff)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=StacyJelagat&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ffb6c1&text_color=333&bg_color=ffebf3,ffffff,ffd6e7" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=StacyJelagat&hide_border=true&background=ffebf3,ffffff,ffd6e7&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StacyJelagat&layout=compact&hide_border=true&title_color=ff69b4&text_color=333&bg_color=ffebf3,ffffff,ffd6e7" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
