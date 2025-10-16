@@ -111,7 +111,7 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/stacy-jelagat/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/stacy-jelagat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:stacyjelagat17@gmail.com">
